@@ -37,22 +37,8 @@ Live a stress-free life.
 - Talking Therapy
 - Consult A Doctor
 
-## 🚀  Get Started <a name = "getStarted"></a>
-Every contribution counts.
-1. Ensure that you have Git installed and working properly.
-2. Fork the repo by clicking on 'Fork' above.
-3. Clone the project by running git clone <forked_project_url>.
-4. Confused about where to start? Check out [good-first-issue](https://github.com/Susmita-Dey/Serene/labels/good%20first%20issue).
-5. Make a separate branch with the issue name ex. issue#485.
-6. You are good to go. Change the code and we will be waiting for your exciting PRs.
-
-For contributing guidelines and standards, visit [contributing.md](https://github.com/Susmita-Dey/Serene/blob/main/CONTRIBUTING.md).
-
 ## Our Logo <a name = "logo"></a>
 <img src="./logo.png" width=140px height=110px alt="logo">
-
-## 📸 Screenshots <a name = "screenshots"></a>
-![readmeBanner](#)
 
 ## Tech Stack <a name = "tech_stack"></a>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
