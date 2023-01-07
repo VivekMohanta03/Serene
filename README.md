@@ -4,7 +4,7 @@ This project is under the theme **Healthcare.**
 This was our first hackathon.
 
 ## Website Link-
-<a href="#">Serene</a>
+<a href="https://vivekmohanta03.github.io/Serene/">Serene</a>
 
 ## 🕊 Our Tagline 
 The one step solution to get relief from your stress.
