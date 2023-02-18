@@ -37,9 +37,6 @@ Live a stress-free life.
 - Talking Therapy
 - Consult A Doctor
 
-## Our Logo <a name = "logo"></a>
-<img src="./logo.png" width=140px height=110px alt="logo">
-
 ## Tech Stack <a name = "tech_stack"></a>
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23fca9ae.svg?style=for-the-badge&logo=html5&logoColor=140200"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%23ffd2ce.svg?style=for-the-badge&logo=css3&logoColor=140200"/>
